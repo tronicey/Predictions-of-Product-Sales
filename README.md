@@ -1,5 +1,6 @@
 # Predictions-of-Product-Sales
 ## Graphs Findings
+
 ###This project shows the relation between low fat and regular fat items sales. Which sales better and if we see any connection as to why that is.
   
 - Looking at sales of items based on fat content, we found low fat items sold more in comparison to regular fat items.
