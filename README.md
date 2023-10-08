@@ -1,5 +1,9 @@
-# Predictions-of-Product-Sales
+# Predictions of Product Sales
 ## Graphs Findings
+ Author: Tronice Ray
+
+ ## Business Problem
+ 
 
 ### This project shows the relation between low fat and regular fat items sales. Which sales better and if we see any connection as to why that is.
   
