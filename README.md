@@ -29,6 +29,8 @@ This graph shows the most impactful features. Item_MRP, Outlet_Type_Grocery Stor
 ## Tree-based model's feature importances.
 ![image](https://github.com/tronicey/Predictions-of-Product-Sales/assets/143138682/c9ebb5b6-fab7-4dea-815c-74a3558fa1c7)
 
+This graph identifies the top 5 most important features, which are: Item_MRP, Outlet_Type_Grocery Store, Outlet_Type_Supermarket Type 3, Outlet_Identifier_OUT027, and Item_Visibility
 
-Identify the top 5 most important features.
-- Item_MRP, Outlet_Type_Grocery Store, Outlet_Type_Supermarket Type 3, Outlet_Identifier_OUT027, and Item_Visibility
+## Final recommendations to your stakeholder.
+The Item_MRP continues to be the most important feature to finding the Item Outlet Sales followed by Outlet Type Grocery Store. 
+
