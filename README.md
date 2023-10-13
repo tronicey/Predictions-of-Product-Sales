@@ -21,3 +21,8 @@
 ## Summary of the model and its evaluation metrics
 R^2 feature in the Regression Test Data shows a 53% chance of calculating the correct Item Outlet Sales. Showing we may need to go back and try other models to better find the correlation between the features and the target.
 
+## LinearRegression coefficients plot.
+![image](https://github.com/tronicey/Predictions-of-Product-Sales/assets/143138682/d4134564-0b17-4127-ba3f-dbc6d144ad17)
+
+
+
