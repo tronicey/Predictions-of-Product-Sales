@@ -24,5 +24,11 @@ R^2 feature in the Regression Test Data shows a 53% chance of calculating the co
 ## LinearRegression coefficients plot.
 ![image](https://github.com/tronicey/Predictions-of-Product-Sales/assets/143138682/d4134564-0b17-4127-ba3f-dbc6d144ad17)
 
+This graph shows the most impactful features. Item_MRP, Outlet_Type_Grocery Store and Item_Visibility. Item_MRP is the most impactful feature. Outlet_Type_Grocery Store is also a strong feature, while Item_Visibility is not as important
+
+## Tree-based model's feature importances.
+![image](https://github.com/tronicey/Predictions-of-Product-Sales/assets/143138682/c9ebb5b6-fab7-4dea-815c-74a3558fa1c7)
 
 
+Identify the top 5 most important features.
+- Item_MRP, Outlet_Type_Grocery Store, Outlet_Type_Supermarket Type 3, Outlet_Identifier_OUT027, and Item_Visibility
